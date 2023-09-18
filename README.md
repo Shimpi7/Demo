@@ -1,4 +1,4 @@
 # Demo
 My first demo
 <br>
-Author-Harsh Shimpi
+Author-Harsh Shimpi (NIT)
